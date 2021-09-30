@@ -10,6 +10,9 @@ how to try serverless knative from google.
 https://docs.mellanox.com/pages/releaseview.action?pageId=19818992
 https://docs.mellanox.com/pages/releaseview.action?pageId=19818992
 
+ install kubernetes with minikube
+ https://www.shuzhiduo.com/A/E35p043E5v/
+ 
 2.install istio.
 
 3.install knative.
