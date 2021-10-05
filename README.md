@@ -16,7 +16,8 @@ https://docs.mellanox.com/pages/releaseview.action?pageId=19818992
 2.install istio.
 
 3.install knative.include knative servicing and eventing component.
-
+    install knative with Operator，such as the following：
+    https://cloud.tencent.com/developer/article/1709515
 
 4.install Tekton  which instance of knative building component.
 
